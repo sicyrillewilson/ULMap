@@ -1,2 +1,2 @@
 # LocUL
-Projet Tuteuré Géolocalisation des batiments de l'UL
+Projet de Géolocalisation des batiments de l'UL
