@@ -1,4 +1,4 @@
-![Release](https://img.shields.io/github/v/release/sicyrillewilson/LocUL)
+![Release](https://img.shields.io/github/v/release/sicyrillewilson/LocUL?include_prereleases&sort=semver)
 ![License](https://img.shields.io/github/license/sicyrillewilson/LocUL)
 
 # 📍 ULMap
@@ -29,13 +29,21 @@ Ce projet s’inscrit dans une démarche d’amélioration de l’expérience ut
 
 ## 🖼️ Aperçu de l’application
 
-![Accueil](LocUL/screenshots/home.png)
-![Carte](LocUL/screenshots/map.png)
-![Liste des bâtiments](LocUL/screenshots/batiments.png)
-![Liste des infrastructures](LocUL/screenshots/infrastructures.png)
-![Informations descriptives d'un bâtiment](LocUL/screenshots/informations_batiment.png)
-![Informations descriptives d'une salle](LocUL/screenshots/infromations_salle.png)
-![Liste des salles d'un bâtiment](LocUL/screenshots/liste_salles_de_batiments.png)
+<p align="center">
+  <img src="LocUL/screenshots/home.png" width="250" />
+  <img src="LocUL/screenshots/map.png" width="250" />
+  <img src="LocUL/screenshots/batiments.png" width="250" />
+</p>
+
+<p align="center">
+  <img src="LocUL/screenshots/infrastructures.png" width="250" />
+  <img src="LocUL/screenshots/informations_batiment.png" width="250" />
+  <img src="LocUL/screenshots/infromations_salle.png" width="250" />
+</p>
+
+<p align="center">
+  <img src="LocUL/screenshots/liste_salles_de_batiments.png" width="250" />
+</p>
 
 
 ## 🛠️ Technologies utilisées
