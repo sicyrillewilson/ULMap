@@ -30,20 +30,46 @@ Ce projet s’inscrit dans une démarche d’amélioration de l’expérience ut
 ## 🖼️ Aperçu de l’application
 
 <p align="center">
-  <img src="LocUL/screenshots/home.png" width="250" />
-  <img src="LocUL/screenshots/map.png" width="250" />
-  <img src="LocUL/screenshots/batiments.png" width="250" />
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="LocUL/screenshots/home.png" width="230" />
+    <figcaption>Accueil de l’application</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="LocUL/screenshots/map.png" width="230" />
+    <figcaption>Carte interactive du campus</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="LocUL/screenshots/batiments.png" width="230" />
+    <figcaption>Liste des bâtiments</figcaption>
+  </figure>
 </p>
 
 <p align="center">
-  <img src="LocUL/screenshots/infrastructures.png" width="250" />
-  <img src="LocUL/screenshots/informations_batiment.png" width="250" />
-  <img src="LocUL/screenshots/infromations_salle.png" width="250" />
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="LocUL/screenshots/infrastructures.png" width="230" />
+    <figcaption>Liste des infrastructures</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="LocUL/screenshots/informations_batiment.png" width="230" />
+    <figcaption>Détails d’un bâtiment</figcaption>
+  </figure>
+
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="LocUL/screenshots/infromations_salle.png" width="230" />
+    <figcaption>Détails d’une salle</figcaption>
+  </figure>
 </p>
 
 <p align="center">
-  <img src="LocUL/screenshots/liste_salles_de_batiments.png" width="250" />
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="LocUL/screenshots/liste_salles_de_batiments.png" width="230" />
+    <figcaption>Liste des salles d’un bâtiment</figcaption>
+  </figure>
 </p>
+
 
 
 ## 🛠️ Technologies utilisées
