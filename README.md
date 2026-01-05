@@ -1,11 +1,9 @@
-![Release](https://img.shields.io/github/v/release/sicyrillewilson/LocUL?include_prereleases&sort=semver)
-![License](https://img.shields.io/github/license/sicyrillewilson/LocUL)
+![Release](https://img.shields.io/github/v/release/sicyrillewilson/ULMap?include_prereleases&sort=semver)
+![License](https://img.shields.io/github/license/sicyrillewilson/ULMap)
 
 # 📍 ULMap
 
 Application mobile de géolocalisation des infrastructures de l’Université de Lomé
-
-Application ULMap (nom du dépôt : LocUL)
 
 
 ## 📖 Description
@@ -48,13 +46,13 @@ Ce projet s’inscrit dans une démarche d’amélioration de l’expérience ut
 
 ## 🛠️ Technologies utilisées
 
-- Langage : Kotlin
-- IDE : Android Studio
-- Cartographie : OSMDroid (OpenStreetMap)
-- Base de données : Firebase Firestore
-- Architecture UI : Activities & Fragments
-- Composants : RecyclerView, DrawerLayout
-- Backend Web (administration) : PHP (sur un autre repository)
+- **Langage** : Kotlin
+- **IDE** : Android Studio
+- **Cartographie** : OSMDroid (OpenStreetMap)
+- **Base de données** : Firebase Firestore
+- **Architecture UI** : Activities & Fragments
+- **Composants** : RecyclerView, DrawerLayout
+- **Backend Web (administration)** : (sur un autre repository)
 
 
 ## ⚙️ Installation et configuration
@@ -67,7 +65,7 @@ Ce projet s’inscrit dans une démarche d’amélioration de l’expérience ut
 
 ### Étapes d’installation
 
-1. Cloner le dépôt à l'adresse : [Repository link](https://github.com/sicyrillewilson/LocUL.git)
+1. Cloner le dépôt à l'adresse : [Repository link](https://github.com/sicyrillewilson/ULMap.git)
 2. Ouvrir le projet dans Android Studio
 3. Synchroniser les dépendances Gradle
 4. Lancer l’application sur un émulateur ou un appareil réel
@@ -89,22 +87,22 @@ Ce projet s’inscrit dans une démarche d’amélioration de l’expérience ut
 
 ## 📦 Releases
 
-- v1.0.0 – Première version stable (Nov 11, 2025)
-- v1.0.1 – Corrections et améliorations mineures
+- **v1.0.0** – Première version stable (Nov 11, 2025)
+- **v1.0.1** – Corrections et améliorations mineures
 
 👉 Releases disponibles ici :
-[Releases link](https://github.com/sicyrillewilson/LocUL/releases)
+[Releases link](https://github.com/sicyrillewilson/ULMap/releases)
 
 
 ## 🧩 Architecture de l’application
 
 L’application repose sur une architecture modulaire facilitant la navigation et la maintenance :
 
-- Activities : gestion des écrans principaux
-- Fragments : affichage dynamique des sections (Accueil, Carte, Bâtiments, Infrastructures)
-- RecyclerView & Adapters : affichage des listes
-- Firebase Firestore : stockage et synchronisation des données
-- OSMDroid : affichage cartographique et gestion de la géolocalisation
+- **Activities** : gestion des écrans principaux
+- **Fragments** : affichage dynamique des sections (Accueil, Carte, Bâtiments, Infrastructures)
+- **RecyclerView & Adapters** : affichage des listes
+- **Firebase Firestore** : stockage et synchronisation des données
+- **OSMDroid** : affichage cartographique et gestion de la géolocalisation
 
 
 ## 🌐 Application Web d’administration
@@ -127,7 +125,7 @@ Toutes les contributions sont les bienvenues.
 
 ## 👤 Auteurs
 
-1. Adjé Sitou Jean Cyrille WILSON-BAHUN : Chef Projet
+1. **Adjé Sitou Jean Cyrille WILSON-BAHUN** : Chef Projet
 2. Gabriel ATUAKUMA 
 3. Crépin AZIAMADJI
 4. Steeve KAMDE 
